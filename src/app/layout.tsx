@@ -26,7 +26,10 @@ export const metadata: Metadata = {
 
   description:
     "VaptStack is an emerging cybersecurity technology startup helping businesses identify, understand, and reduce security risks across modern digital systems.",
-
+    
+  alternates: {
+  canonical: "/",
+},
   keywords: [
     "VaptStack",
     "VaptStack startup",
