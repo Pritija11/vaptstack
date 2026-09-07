@@ -9,9 +9,7 @@ export default function OrganizationSchema() {
     description:
       "VaptStack is an emerging cybersecurity technology startup helping businesses identify, understand, and reduce security risks across modern digital systems.",
 
-    email: "contact@vaptstack.com",
-
-    telephone: "+977 1 5123456",
+    
 
     address: {
       "@type": "PostalAddress",
